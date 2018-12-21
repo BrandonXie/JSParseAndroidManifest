@@ -3,8 +3,8 @@ JS parse AndroidManifest binary file
 
 The Tool is used parse AndroidManifest binary file.
 
-eg.
-`
+Demo:
+```javascript
 <body>
 <input type='file' onchange='openFile(event)' accept=".apk">
 <br/>
@@ -21,4 +21,4 @@ var openFile =function (event){
     });
 }
 </script>
-`
+```
